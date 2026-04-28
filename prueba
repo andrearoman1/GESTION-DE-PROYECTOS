@@ -1,2 +1,0 @@
-$ touch README.md    # To create a README file for the repository
-$ git init           # Initiates an empty git repository
